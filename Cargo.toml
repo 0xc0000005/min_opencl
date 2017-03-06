@@ -1,0 +1,8 @@
+[package]
+authors = ["Alexander Orlov <orlov.alexander@gmail.com>"]
+build = "build.rs"
+name = "min_opencl"
+version = "0.1.0"
+
+[dependencies]
+libc = "0.2.8"
